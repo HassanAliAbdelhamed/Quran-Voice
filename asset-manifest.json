@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Quran-Voice.git/static/css/main.464d1cd2.css",
+    "main.js": "/Quran-Voice.git/static/js/main.172401e7.js",
+    "static/js/453.747eca76.chunk.js": "/Quran-Voice.git/static/js/453.747eca76.chunk.js",
+    "index.html": "/Quran-Voice.git/index.html",
+    "main.464d1cd2.css.map": "/Quran-Voice.git/static/css/main.464d1cd2.css.map",
+    "main.172401e7.js.map": "/Quran-Voice.git/static/js/main.172401e7.js.map",
+    "453.747eca76.chunk.js.map": "/Quran-Voice.git/static/js/453.747eca76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.464d1cd2.css",
+    "static/js/main.172401e7.js"
+  ]
+}
